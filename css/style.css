@@ -1,0 +1,141 @@
+.list h5{
+	margin:0;
+}
+
+img-fluid{
+	max-width: 100%;
+	display: block;
+}
+
+.coffee .card-header{
+	padding: 0;
+}
+h1,h2,h3,h4,h5,h6{
+	margin:0;
+}
+
+.list h5{
+	margin:0;
+}
+
+.img-fluid{
+	max-width: 100%;
+	display: block;
+	
+}
+
+.coffee .card-header{
+  padding: 0;
+}
+
+
+.card.menu{
+	background-size:cover;
+	background-position: center;
+	background-repeat:no-repeat;
+	color:#fff;
+	text-align:center;}
+
+
+
+
+.bg-feria{
+	background-image: url("../../../Desktop/Diseño Web 2/App/img/Química.jpg")
+}
+
+.overlay{
+	background-color:rgba(0,0,0,0.70)
+}
+
+.menu .card-content{
+	padding:35px 0;
+}
+
+.menu h4{
+	margin:0;
+	font-size:20px;
+}
+
+.menu p{
+	margin:0;
+	font-size:12px;
+}
+
+.menu a{
+	color:#fff;
+}
+
+
+.bg-tutoria{
+	background-image: url("../../../Desktop/Liz App/img/tutoria.jpg")
+}
+
+.bg-materiales{
+	background-image:url( "../../../Desktop/Liz App/img/materiales.jpg")
+	}
+.menus .card-content{
+	padding:10px;
+	text-align:center;
+}
+
+.bg-papeleria{
+	background-image:url("../img/papeleria.jpg")
+	}
+.bg-lapices{
+	background-image: url("../img/lápices.jpg")
+}
+.bg-plasticina{
+	background-image: url("../img/plasticinas.jpg")
+}
+.bg-limpiapipas{
+	background-image: url("../img/limpiapipas.jpg")
+}
+
+.menus h3{
+	font-size: 16px;
+	color:#2D2D2D;
+	margin-bottom: 0;
+
+}
+
+.menus p{
+	font-size:12px;
+	color:#0C9F3C;
+	font-weight:600;
+}
+
+.product{
+	color:#2d2d2d;
+	font-size: 16px;
+	font-weight: 600;
+}
+
+
+.price{
+	color:#0C9F3C;
+	font-size: 16px;
+	font-weight: 600;
+}
+
+.button-green{
+	background-color: #0C9F3C !important;
+}
+
+.amarillo{
+	background-color: #ffde59;
+}
+#block{
+	padding: 20%;
+}
+
+.logo{
+padding-bottom: 10%;
+}
+
+.inicio-text{
+	color: white;
+}
+
+.navbar-inner{
+	background-color: #ffde59;
+}
