@@ -17,15 +17,24 @@ var myApp = new Framework7({
     	name: 'home',
   		},
 		{
-		path: '/list/',
-    	url: 'list.html',
-    	name: 'list',
+		path: '/materiales/',
+    	url: 'materiales.html',
+    	name: 'materiales',
   		},
 		{
-		path: '/cart/',
-    	url: 'cart.html',
-    	name: 'cart',
+		path: '/servicios/',
+    	url: 'servicios.html',
+    	name: 'servicios',
   		},
+		
+		{
+		path: '/productos/',
+    	url: 'productos.html',
+    	name: 'productos',
+  		},
+		
+		
+		
 	]
 });
 
