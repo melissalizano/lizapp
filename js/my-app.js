@@ -33,8 +33,51 @@ var myApp = new Framework7({
     	name: 'productos',
   		},
 		
-		
-		
+		{
+		path: '/feria/',
+    	url: 'feria.html',
+    	name: 'feria',
+  		},
+		{
+		path: '/tutorias/',
+    	url: 'tutorias.html',
+    	name: 'tutorias',
+  		},
+		{
+		path: '/papeleria/',
+    	url: 'papeleria.html',
+    	name: 'papeleria',
+  		},
+		{
+		path: '/lapices/',
+    	url: 'lapices.html',
+    	name: 'lapices',
+  		},
+		{
+		path: '/plasticinas/',
+    	url: 'plasticinas.html',
+    	name: 'plasticinas',
+  		},
+		{
+		path: '/tutores/',
+    	url: 'tutores.html',
+    	name: 'tutores',
+  		},
+		{
+		path: '/mena/',
+    	url: 'mena.html',
+    	name: 'mena',
+  		},
+		{
+		path: '/perfil/',
+    	url: 'perfil.html',
+    	name: 'perfil',
+  		},
+		{
+		path: '/form/',
+    	url: 'form.html',
+    	name: 'form',
+  		}
 	]
 });
 
