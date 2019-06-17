@@ -7,6 +7,11 @@ img-fluid{
 	display: block;
 }
 
+.button-fill-1{
+	background-color: #DCB031;
+	color: ghostwhite;
+}
+
 .coffee .card-header{
 	padding: 0;
 }
@@ -37,7 +42,9 @@ h1,h2,h3,h4,h5,h6{
 	text-align:center;}
 
 
-
+p{
+	color: #000;
+}
 
 .bg-feria{
 	background-image:url(../img/Química.jpg)

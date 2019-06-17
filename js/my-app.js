@@ -77,6 +77,12 @@ var myApp = new Framework7({
 		path: '/form/',
     	url: 'form.html',
     	name: 'form',
+  		},
+		
+			{
+		path: '/pago/',
+    	url: 'pago.html',
+    	name: 'pago',
   		}
 	]
 });
